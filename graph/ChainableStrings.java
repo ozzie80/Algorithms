@@ -28,7 +28,7 @@ import java.util.Map;
  */
 public class ChainableStrings {
 
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		// arr[] = {"geek", "king"}
 		// arr[] = {"aaa", "bbb", "baa", "aab"};
 		String arr[] = { "for", "geek", "rig", "kaf" };
